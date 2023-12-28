@@ -66,7 +66,7 @@ export const Conversation = () => {
           Estamos ubicados en Pedro Montt 345, Providencia, Santiago.
         </div>
         <div class="conversation_ia_button">
-          <a href="http://localhost:5173/register">
+          <a href="http://assistant-frontend-main.vercel.app/register">
             <button type="button" class="btn btn-primary">
               Si te gustó nuestro servicio registrate gratis haciendo click en
               este botón

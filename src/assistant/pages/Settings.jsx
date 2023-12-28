@@ -42,7 +42,7 @@ export const Settings = () => {
           </button>
         </div>
         <div class="mb-3">
-          <a href="http://localhost:5173/conversation">
+          <a href="http://assistant-frontend-main.vercel.app/conversation">
             <button type="button" class="btn btn-success">
               Probar mi asistente
             </button>

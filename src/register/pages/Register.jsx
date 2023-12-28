@@ -21,7 +21,7 @@ export const Register = () => {
           />
         </div>
         <div class="d-grid">
-          <a href="http://localhost:5173/login">
+          <a href="http://assistant-frontend-main.vercel.app/login">
             <button type="button" class="btn btn-primary">
               Registrar
             </button>

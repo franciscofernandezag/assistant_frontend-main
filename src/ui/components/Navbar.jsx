@@ -40,7 +40,7 @@ export const Navbar = () => {
             </li>
           </ul>
           <span class="navbar-text me-2">Arturo</span>
-          <a href="http://localhost:5173/login">
+          <a href="http://assistant-frontend-main.vercel.app/login">
             <button class="btn btn-outline-success">Logout</button>
           </a>
         </div>

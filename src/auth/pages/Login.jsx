@@ -20,7 +20,7 @@ export const Login = () => {
           />
         </div>
         <div>
-          <a href="http://localhost:5173/home">
+          <a href="http://assistant-frontend-main.vercel.app/home">
             <button type="button" class="btn btn-primary">
               Ingresar
             </button>
